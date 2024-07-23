@@ -1,4 +1,6 @@
-<h2 align="left">Hi there! 👋</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=4F42CF&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B;I'm+Alevir+Coelho+Neto!" alt="Typing SVG" />
+</h1>
 
 ###
 
@@ -61,6 +63,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Alevir-Coelho-Neto/Alevir-Coelho-Neto/output/snake.svg" alt="Snake animation" />
+  
 
 ###
