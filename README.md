@@ -4,12 +4,16 @@
 
 <p align="left">I'm Alevir Coelho Neto, and I thrive on transforming ideas into reality through innovative web development. If you're ready to create something extraordinary, let's connect and make it happen! 🚀</p>
 
+<br>
+
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alevir-Coelho-Neto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alevir-Coelho-Neto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<br>
 
 ###
 
@@ -41,6 +45,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
+<br>
+
+
 ###
 
 <div align="center">
@@ -51,7 +58,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
 <br clear="both">
 
