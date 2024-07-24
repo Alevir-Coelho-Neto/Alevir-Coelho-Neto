@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center" color="#000">I'm Alevir Coelho Neto, and I thrive on transforming ideas into reality through innovative web development. If you're ready to create something extraordinary, let's connect and make it happen! 🚀</p>
+<h3 align="center">I'm Alevir Coelho Neto, and I thrive on transforming ideas into reality through innovative web development. If you're ready to create something extraordinary, let's connect and make it happen! 🚀</h3>
 
 <br>
 
