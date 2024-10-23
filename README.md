@@ -66,13 +66,13 @@
   <a href="https://alevirdev.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="35" alt="portfolio logo" />
   </a>
-  <a href="https://discord.com/invite/seu_link" target="_blank" style="text-decoration: none;">
+  <a href="https://discord.com/invite/levi.dev" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="mailto:seu_email@gmail.com" target="_blank" style="text-decoration: none;">
+  <a href="mailto:alevircoelhoneto1@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/alevir-coelho-neto" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
