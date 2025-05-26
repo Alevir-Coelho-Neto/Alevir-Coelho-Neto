@@ -4,7 +4,10 @@
 
 ###
 
-<h3 align="center">I'm Alevir Coelho Neto, and I excel at transforming ideas into reality through innovative web development. If you're ready to create something extraordinary, let's connect and make it happen! 🚀</h3>
+<h3 align="center">I'm a Java Developer building scalable backend systems and clean frontend interfaces. 
+Currently focusing on full-stack applications using Spring Boot + Angular. 
+Passionate about clean architecture, testing and cloud deployment.
+</h3>
 
 <br>
 
